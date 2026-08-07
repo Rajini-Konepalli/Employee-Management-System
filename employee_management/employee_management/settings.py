@@ -7,9 +7,9 @@ SECRET_KEY = "django-insecure-employee-management-project"
 DEBUG = False
 
 ALLOWED_HOSTS = [
-    "127.0.0.1",
+    "employee-management-system-qvkx.onrender.com",
     "localhost",
-    ".onrender.com",
+    "127.0.0.1",
 ]
 
 INSTALLED_APPS = [
